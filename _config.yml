@@ -1,0 +1,12 @@
+title: Shivansh Padhi
+description: Personal site of Shivansh Padhi.
+url: "https://ShivPadhi.github.io"
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
